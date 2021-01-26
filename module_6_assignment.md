@@ -984,8 +984,3 @@ In this final assignment of the course, you used a pre-trained object detection 
 Although we are not eliminating false positives, the model was able to identify over 70 people in the dataset.
 
 You've now completed Computer Vision with GluonCV from AWS. We hope to see you in the next course.
-
-
-```python
-
-```
