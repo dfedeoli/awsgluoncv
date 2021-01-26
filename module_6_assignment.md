@@ -555,10 +555,7 @@ class PersonCounter():
         
         if visualize:
             self._visualize(unnorm_image, class_ids, scores, bounding_boxes)
-        # YOUR CODE HERE
-        if filepath == Path(M6_IMAGES, '25751294956_fa3ee87fb8_b.jpg') and threshold ==0.9:
-            threshold = 0.87
-            
+        # YOUR CODE HERE            
         num_people = count_object(network, class_ids, scores, bounding_boxes, 'person', threshold)
         
         if num_people == 1:
