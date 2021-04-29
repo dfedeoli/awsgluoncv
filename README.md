@@ -1,4 +1,4 @@
-### AWS Computer Vision: Getting Started with GluonCV
+# AWS Computer Vision: Getting Started with GluonCV
 
 Notebooks do [curso](https://www.coursera.org/learn/aws-computer-vision-gluoncv) disponível na plataforma de ensino **Coursera**, aplicando conceitos de Deep Learning e Visão Computacional em Python.
 
@@ -8,3 +8,5 @@ Notebooks do [curso](https://www.coursera.org/learn/aws-computer-vision-gluoncv)
 * **Module 5 Practice Assessment 2: MXNet Model Evaluation** http://bit.ly/3iMWuqG
 * **Module 5 Assignment: MXNet Full Training Process** http://bit.ly/2KPr5Ya
 * **Module 6 Assignment: Counting People in Images** http://bit.ly/2M6Tqd9
+
+---
